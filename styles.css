@@ -3,6 +3,13 @@ body {
     padding-top: 50px;
 }
 
+a,
+a:hover,
+a:focus,
+a:active {
+    text-decoration: none;
+}
+
 .navbar-nav {
     text-transform: uppercase;
 }
