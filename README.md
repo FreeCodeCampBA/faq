@@ -14,6 +14,13 @@ Ah, no te olvides de traer buena onda y respeto. Te recomendamos leer nuestro [C
 ### ¿Cuándo y dónde se juntan?
 Salvo que te avisemos de algún cambio, nos juntamos los Domingos de 16 a 20.30hs aproximadamente. En [nuestra página de Meetup](http://www.meetup.com/es/FreeCodeCampBA/) podés ver los detalles de los próximos eventos, junto con el lugar de encuentro.
 
+### ¿Cómo hago para asistir?
+Simple, primero tenés que unirte a [nuestro grupo en Meetup](http://www.meetup.com/es/freecodecampba/). Después dejás tu RSVP para el evento al que quieras asistir, junto con tu DNI. Es importante que completes esa información, la capacidad de los lugares es limitada (para estar cómodos, sentados y con una mesa disponible para apoyar tu computadora) y en la entrada vas a necesitar acreditar tu identidad, fundamentalmente cuando hacemos la Meetup en AreaTres.  
+
+Por último, te pedimos por favor que respetes la fecha de finalización del RSVP y te anotes a tiempo para evitarnos problemas después.
+
+Si tenés algún inconveniente o no entendiste algún paso, pasate por [nuestro chat](http://freecodecampba.org/chat) y preguntanos.  
+
 ### ¿Tengo que saber programar o tener conocimientos de algún tipo para poder ir? 
 No. Acá podés aprender desde cero. Alcanza con que sepas usar el navegador, que suponemos que lo hacés y por eso llegaste hasta acá ;)
 
