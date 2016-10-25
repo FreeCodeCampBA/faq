@@ -19,7 +19,7 @@ a:active {
 }
 
 .nav-logo {
-    margin-top: -10px;
+    margin-top: -7px;
     height: 40px;
 }
 
@@ -64,12 +64,8 @@ footer a:hover>p {
     color: #10dffd;
 }
 
-.meetup-logo {
-    fill: #F5F5F5;
-}
-
-.mt:hover>.meetup-logo {
-    fill: #e0393d;
+.mt:hover>.fa-meetup {
+    color: #e0393d;
 }
 
 .sl:hover>.fa-slack {
