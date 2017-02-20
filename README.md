@@ -83,7 +83,7 @@ Tranquil@! En primer lugar, lo más recomendable es que si podés, vengas a nues
 - Leyendo nuestro **[`Código de Conducta`](https://github.com/FreeCodeCampBA/codigo)**, respetándolo y haciéndolo respetar entre todos.
 - Con buena onda y respeto, nuestra comunidad existe y se mantiene gracias al esfuerzo voluntario de todos los que formamos parte.
 - Compartiendo tus conocimientos con el resto.
-- Difundiendo nuestro grupo con el resto del mundo, ¡seguro conocés a alguien interesado! Acordate que estamos en [Twitter](https://twitter.com/FreeCodeCampBA) y [Facebook](https://www.facebook.com/groups/free.code.camp.buenos.aires/).
+- Difundiendo nuestro grupo con el resto del mundo, ¡seguro conocés a alguien interesado! Acordate que estamos en **[`Twitter`](https://twitter.com/FreeCodeCampBA)** y **[`grupo de Facebook`](https://www.facebook.com/groups/free.code.camp.buenos.aires/)**.
 - Contribuyendo a **[`nuestra Wiki`](https://github.com/FreeCodeCampBA/links/wiki)**. Si tenés dudas al respecto de cómo hacerlo, consultanos. Vas a necesitar que te agreguemos como miembro primero. También tenemos una **[`Organización en GitHub`](https://github.com/FreeCodeCampBA)** donde podés publicar tus proyectos de Free Code Camp.
 - Sugiriendo ideas para seguir creciendo y mejorando.
 - ¿Estás relacionado a la industria del software de alguna forma y querés brindar un lugar para hostear la Meetup o ser sponsor? Contanos más al respecto, te escuchamos.
