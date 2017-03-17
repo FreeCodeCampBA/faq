@@ -1,8 +1,6 @@
-<h1 align="center">
-  <br>
-    :interrobang: F.A.Q.
-  <br>
-</h1>
+# :interrobang: F.A.Q.
+
+> Free Code Camp BA F.A.Q.
 
 ## ¿Tengo que pagar algo?
 
