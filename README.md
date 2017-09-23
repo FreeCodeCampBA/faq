@@ -61,7 +61,7 @@ Como ves, ¡hay mucho para hacer! :rainbow:
 
 ## ¿Qué lenguajes y tecnologías estudian?
 
-Nos enfocamos en **[`freeCodeCamp`](https://www.freecodecamp.com/)**, una paltaforma con una **currícula de desarrollo Full-Stack JavaScript.** Estudiamos y realizamos proyectos utilizando tecnologías tales como *HTML5, CSS, JavaScript, Node.js, Angular, Git, React, MongoDB, D3*, etc, usando un programa de aprendizaje **gratuito** y **Open Source**.
+Nos enfocamos en **[`freeCodeCamp`](https://www.freecodecamp.com/)**, una plataforma con una **currícula de desarrollo Full-Stack JavaScript.** Estudiamos y realizamos proyectos utilizando tecnologías tales como *HTML5, CSS, JavaScript, Node.js, Angular, Git, React, MongoDB, D3*, etc, usando un programa de aprendizaje **gratuito** y **Open Source**.
 
 ## No entendí nada de las palabras anteriores, ¿de qué me hablan?
 
