@@ -36,10 +36,6 @@ Si tenés algún inconveniente o no entendiste algún paso, pasate por **[`nuest
 
 No. Acá podés aprender desde cero. Alcanza con que sepas usar el navegador, que suponemos que lo hacés y por eso llegaste hasta acá :wink:
 
-## ¿Por qué los Domingos? ¿Por qué en ese horario?
-
-Fue decidido por votación, por la comunidad que asiste a los eventos y es un horario en el que los organizadores estamos disponibles.
-
 ## ¿Qué puedo hacer en los encuentros?
 
 - Venir a resolver ejercicios de **[`la plataforma`](https://www.freecodecamp.org/map)** y pedir ayuda cuando la necesites. 
