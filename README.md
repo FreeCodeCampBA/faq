@@ -8,7 +8,7 @@ No. Nuestras actividades son 100% gratuitas.
 
 ## ¿Hay restricciones de algún tipo para poder asistir?
 
-El único requisito es registrarse en **[`nuestro grupo de Meetup`](bit.ly/fccba-meetup)** y confirmar tu asistencia con el RSVP*. Nuestras actividades son 100% libres y abiertas. Cualquiera puede unirse (e irse) cuando quiera, durante el horario en que se desarrollan. 
+El único requisito es registrarse en **[`nuestro grupo de Meetup`](https://bit.ly/fccba-meetup)** y confirmar tu asistencia con el RSVP*. Nuestras actividades son 100% libres y abiertas. Cualquiera puede unirse (e irse) cuando quiera, durante el horario en que se desarrollan. 
 
 (*) Por respeto y consideración con los demás, te pedimos que en caso de que sepas que no vas a poder asistir a algún encuentro actualices tu `RSVP`. Gracias.
 
@@ -16,21 +16,21 @@ El único requisito es registrarse en **[`nuestro grupo de Meetup`](bit.ly/fccba
 
 Si bien no es *obligatorio*, recomendamos fuertemente que traigas tu notebook para que puedas trabajar. Si es necesario, vamos a buscar a alguien con quien puedas compartir la PC.
 
-Buena onda y respeto. Por favor, leé nuestro **[`Código de Conducta`](bit.ly/fccba-codigo)**.
+Buena onda y respeto. Por favor, leé nuestro **[`Código de Conducta`](https://bit.ly/fccba-codigo)**.
 
 También podés traer algo para comer y compartir.
 
 ## ¿Cuándo y dónde se juntan?
 
-En **[`nuestra página de Meetup`](bit.ly/fccba-meetup)** podés ver los detalles de los próximos eventos, junto con el lugar de encuentro.
+En **[`nuestra página de Meetup`](https://bit.ly/fccba-meetup)** podés ver los detalles de los próximos eventos, junto con el lugar de encuentro.
 
 ## ¿Cómo hago para asistir?
 
-Simple, primero tenés que unirte a **[`nuestro grupo en Meetup`](bit.ly/fccba-meetup)**. Después dejás tu `RSVP` para el evento al que quieras asistir, tu nombre completo y DNI. **Es importante que completes esa información**, la capacidad de los lugares es limitada (para estar cómodos, sentados y con una mesa disponible para apoyar tu computadora) y necesitamos poder identificar a la gente que viene, por cuestiones de seguridad y organización en algunos lugares.
+Simple, primero tenés que unirte a **[`nuestro grupo en Meetup`](https://bit.ly/fccba-meetup)**. Después dejás tu `RSVP` para el evento al que quieras asistir, tu nombre completo y DNI. **Es importante que completes esa información**, la capacidad de los lugares es limitada (para estar cómodos, sentados y con una mesa disponible para apoyar tu computadora) y necesitamos poder identificar a la gente que viene, por cuestiones de seguridad y organización en algunos lugares.
 
 Por último, **te pedimos por favor que respetes la fecha de finalización del RSVP y te anotes a tiempo para evitarnos problemas después**.
 
-Si tenés algún inconveniente o no entendiste algún paso, pasate por **[`nuestro chat`](bit.ly/fccba-chat)** y preguntanos. 
+Si tenés algún inconveniente o no entendiste algún paso, pasate por **[`nuestro chat`](https://bit.ly/fccba-chat)** y preguntanos. 
 
 ## ¿Tengo que saber programar o tener conocimientos de algún tipo para poder ir?
 
@@ -47,7 +47,7 @@ No. Acá podés aprender desde cero. Alcanza con que sepas usar el navegador, qu
 - Charlar, informarte e informarnos sobre la industria.
 - Pedir consejos para conseguir tu primer trabajo como dev. Dar consejos.
 - Conocer gente copada, con intereses comunes, en una tarde con mate, café, bebidas y cosas ricas para comer.
-- Escuchar **[`charlas`](bit.ly/fccba-charlas)** sobre diferentes tecnologías o proponer alguna que te gustaría dar.
+- Escuchar **[`charlas`](https://bit.ly/fccba-charlas)** sobre diferentes tecnologías o proponer alguna que te gustaría dar.
 - Hacer muchos ejercicios e implementar cosas en los mini-workshops que tenemos después de cada charla.
 - Pasarla bien y aprender mucho. 
 
@@ -75,14 +75,14 @@ Si bien no nos cerramos a escuchar sobre otras tecnologías, preferimos enfocarn
 
 ## Tengo dudas, necesito feedback, no entiendo esto... ¡PLZ HALP!
 
-Calma! En primer lugar, lo más recomendable es que, si podés, vengas a nuestras Meetups para que te podamos ayudar personalmente. Después, podés preguntar en nuestro **[`grupo de Facebook`](bit.ly/fccba-facebook)** y preferentemente, en **[`nuestro chat`](bit.ly/fccba-chat)**. Alguien te va a responder.
+Calma! En primer lugar, lo más recomendable es que, si podés, vengas a nuestras Meetups para que te podamos ayudar personalmente. Después, podés preguntar en nuestro **[`grupo de Facebook`](https://bit.ly/fccba-facebook)** y preferentemente, en **[`nuestro chat`](https://bit.ly/fccba-chat)**. Alguien te va a responder.
 
 ## ¿Cómo puedo colaborar?
 
-- Leé nuestro **[`Quick Start`](bit.ly/fccba-quick-start)** :rocket:
+- Leé nuestro **[`Quick Start`](https://bit.ly/fccba-quick-start)** :rocket:
 - Con buena onda y respeto, nuestra comunidad existe y se mantiene gracias al **esfuerzo voluntario** de todos los que formamos parte.
 - Compartiendo tus conocimientos con el resto.
-- Difundiendo nuestro grupo con el resto del mundo, ¡seguro conocés más gente interesada! Acordate que estamos en **[`Twitter`](bit.ly/fccba-twitter)** y **[`grupo de Facebook`](bit.ly/fccba-facebook)**.
-- Sugiriendo ideas para seguir creciendo y mejorando. Agradecemos tu **[`feedback anónimo`](bit.ly/fccba-feedback)**.
+- Difundiendo nuestro grupo con el resto del mundo, ¡seguro conocés más gente interesada! Acordate que estamos en **[`Twitter`](https://bit.ly/fccba-twitter)** y **[`grupo de Facebook`](https://bit.ly/fccba-facebook)**.
+- Sugiriendo ideas para seguir creciendo y mejorando. Agradecemos tu **[`feedback anónimo`](https://bit.ly/fccba-feedback)**.
 - ¿Tenés relación con la industria del software y querés ofrecernos un lugar para hostear los eventos o algún otro tipo de ayuda? Hablemos.
 - Podés traer comida y/o bebidas para compartir entre todos.
